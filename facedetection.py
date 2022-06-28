@@ -27,12 +27,3 @@ while True:
 cv2.destroyAllWindows()
 
 
-"""
-ref:
-https://ja.stackoverflow.com/questions/31537/python-%E3%81%A7-cv2-imshow-%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E7%94%BB%E5%83%8F%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84
-https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
-https://raw.githubusercontent.com/kipr/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
-https://www.klv.co.jp/corner/python-opencv-video-capture.html
-https://kuroro.blog/python/8DIolh7Pwggq2pvabysn/
-
-"""
